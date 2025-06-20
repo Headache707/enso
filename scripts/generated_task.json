@@ -1,0 +1,170 @@
+[
+  {
+    "action": "setViewport",
+    "width": 856,
+    "height": 559
+  },
+  {
+    "action": "goto",
+    "url": "https://freebitco.in/?op=home"
+  },
+  {
+    "action": "wait",
+    "time": "RANDOM(5000-8000)"
+  },
+  {
+    "action": "waitForSelector",
+    "selector": "aria/ROLL!",
+    "clickId": "click_0"
+  },
+  {
+    "action": "hover",
+    "selector": "aria/ROLL!",
+    "clickId": "click_0"
+  },
+  {
+    "action": "click",
+    "selector": "aria/ROLL!",
+    "offset": {
+      "x": "RANDOM(5-15)",
+      "y": "RANDOM(5-15)"
+    },
+    "selectors": [
+      "aria/ROLL!",
+      "#free_play_form_button",
+      "xpath///*[@id=\"free_play_form_button\"]",
+      "pierce/#free_play_form_button",
+      "text/ROLL!"
+    ],
+    "clickId": "click_0"
+  },
+  {
+    "action": "wait",
+    "time": "RANDOM(5000-8000)",
+    "clickId": "click_0"
+  },
+  {
+    "action": "waitForSelector",
+    "selector": "#free_play_form_button",
+    "clickId": "click_0"
+  },
+  {
+    "action": "hover",
+    "selector": "#free_play_form_button",
+    "clickId": "click_0"
+  },
+  {
+    "action": "click",
+    "selector": "#free_play_form_button",
+    "offset": {
+      "x": "RANDOM(5-15)",
+      "y": "RANDOM(5-15)"
+    },
+    "selectors": [
+      "aria/ROLL!",
+      "#free_play_form_button",
+      "xpath///*[@id=\"free_play_form_button\"]",
+      "pierce/#free_play_form_button",
+      "text/ROLL!"
+    ],
+    "clickId": "click_0"
+  },
+  {
+    "action": "wait",
+    "time": "RANDOM(5000-8000)",
+    "clickId": "click_0"
+  },
+  {
+    "action": "waitForSelector",
+    "selector": "xpath///*[@id=\"free_play_form_button\"]",
+    "clickId": "click_0"
+  },
+  {
+    "action": "hover",
+    "selector": "xpath///*[@id=\"free_play_form_button\"]",
+    "clickId": "click_0"
+  },
+  {
+    "action": "click",
+    "selector": "xpath///*[@id=\"free_play_form_button\"]",
+    "offset": {
+      "x": "RANDOM(5-15)",
+      "y": "RANDOM(5-15)"
+    },
+    "selectors": [
+      "aria/ROLL!",
+      "#free_play_form_button",
+      "xpath///*[@id=\"free_play_form_button\"]",
+      "pierce/#free_play_form_button",
+      "text/ROLL!"
+    ],
+    "clickId": "click_0"
+  },
+  {
+    "action": "wait",
+    "time": "RANDOM(5000-8000)",
+    "clickId": "click_0"
+  },
+  {
+    "action": "waitForSelector",
+    "selector": "pierce/#free_play_form_button",
+    "clickId": "click_0"
+  },
+  {
+    "action": "hover",
+    "selector": "pierce/#free_play_form_button",
+    "clickId": "click_0"
+  },
+  {
+    "action": "click",
+    "selector": "pierce/#free_play_form_button",
+    "offset": {
+      "x": "RANDOM(5-15)",
+      "y": "RANDOM(5-15)"
+    },
+    "selectors": [
+      "aria/ROLL!",
+      "#free_play_form_button",
+      "xpath///*[@id=\"free_play_form_button\"]",
+      "pierce/#free_play_form_button",
+      "text/ROLL!"
+    ],
+    "clickId": "click_0"
+  },
+  {
+    "action": "wait",
+    "time": "RANDOM(5000-8000)",
+    "clickId": "click_0"
+  },
+  {
+    "action": "waitForSelector",
+    "selector": "text/ROLL!",
+    "clickId": "click_0"
+  },
+  {
+    "action": "hover",
+    "selector": "text/ROLL!",
+    "clickId": "click_0"
+  },
+  {
+    "action": "click",
+    "selector": "text/ROLL!",
+    "offset": {
+      "x": "RANDOM(5-15)",
+      "y": "RANDOM(5-15)"
+    },
+    "selectors": [
+      "aria/ROLL!",
+      "#free_play_form_button",
+      "xpath///*[@id=\"free_play_form_button\"]",
+      "pierce/#free_play_form_button",
+      "text/ROLL!"
+    ],
+    "clickId": "click_0"
+  },
+  {
+    "action": "wait",
+    "time": "RANDOM(5000-8000)",
+    "clickId": "click_0"
+  }
+]
